@@ -1,0 +1,261 @@
+{
+  "catalog" : "supplemental-spots",
+  "records" : [
+    {
+      "alternateNames" : [
+        "Grand Canyon of the Colorado"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "naturalFeature",
+      "id" : "234DED51-0F85-53B5-A28E-7486CB786BB2",
+      "latitude" : 36.0975,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q118841"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : -112.095277777778,
+      "name" : "Grand Canyon",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q118841",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q118841",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "America/Phoenix"
+    },
+    {
+      "alternateNames" : [
+        "Hallstatt village"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "historicSite",
+      "id" : "3239D7A8-037F-5F8C-9510-A610509254DD",
+      "latitude" : 47.555833333333,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q131633"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : 13.646666666667,
+      "name" : "Hallstatt",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q131633",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q131633",
+      "theme" : "city",
+      "timeZoneIdentifier" : "Europe/Vienna"
+    },
+    {
+      "alternateNames" : [
+        "Plitvice Lakes"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "naturalFeature",
+      "id" : "54B5DDFB-9008-53F4-B19B-C94C5F1D36A1",
+      "latitude" : 44.880445,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q189849"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : 15.616035,
+      "name" : "Plitvice Lakes National Park",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q189849",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q189849",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "Europe/Zagreb"
+    },
+    {
+      "alternateNames" : [
+        "Niagara Waterfalls"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "waterfall",
+      "id" : "3359E845-CC3B-5087-8EED-A15D04674AC9",
+      "latitude" : 43.08,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q34221"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : -79.071,
+      "name" : "Niagara Falls",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q34221",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q34221",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "America/Toronto"
+    },
+    {
+      "alternateNames" : [
+        "Cataratas del Iguazú",
+        "Iguazu Falls"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "waterfall",
+      "id" : "6E319162-DAA2-586B-8AD7-CE3684B64EDC",
+      "latitude" : -25.695277777778,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q36332"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : -54.436666666667,
+      "name" : "Iguaçu Falls",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q36332",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q36332",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "America/Sao_Paulo"
+    },
+    {
+      "alternateNames" : [
+        "Mosi-oa-Tunya"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "waterfall",
+      "id" : "018ACA58-C46E-5256-BBAB-9284E4F6C520",
+      "latitude" : -17.924777777778,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q43278"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : 25.858055555556,
+      "name" : "Victoria Falls",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q43278",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q43278",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "Africa/Harare"
+    },
+    {
+      "alternateNames" : [
+        "Monte Roraima",
+        "Roraima-tepui"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "summit",
+      "id" : "E018488E-B97E-5F05-A3C0-BB2E83F6BA4B",
+      "latitude" : 5.141944444444,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q4777"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : -60.764166666667,
+      "name" : "Mount Roraima",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q4777",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q4777",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "America/Caracas"
+    },
+    {
+      "alternateNames" : [
+        "Blejsko jezero"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "naturalFeature",
+      "id" : "5B900F0E-32C0-53A1-BAC9-71C67D8A25EF",
+      "latitude" : 46.364444444444,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q648902"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : 14.094722222222,
+      "name" : "Lake Bled",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q648902",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q648902",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "Europe/Ljubljana"
+    },
+    {
+      "alternateNames" : [
+        "Salar de Tunupa",
+        "Uyuni Salt Flat"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "naturalFeature",
+      "id" : "63AD168A-02EE-5BB6-909E-385C681670AF",
+      "latitude" : -20.33333,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q76122"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : -67.7,
+      "name" : "Salar de Uyuni",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q76122",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q76122",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "America/La_Paz"
+    },
+    {
+      "alternateNames" : [
+        "Kerepakupai Merú",
+        "Salto Ángel"
+      ],
+      "attributionText" : "Wikidata contributors",
+      "featureClass" : "waterfall",
+      "id" : "64DA38C9-0EB8-50E2-9B80-C796ACE9A83F",
+      "latitude" : 5.970055555556,
+      "licenseName" : "CC0 1.0",
+      "licenseURL" : "https://creativecommons.org/publicdomain/zero/1.0/",
+      "linkedExternalIDs" : [
+        "wikidata:Q80299"
+      ],
+      "localizedNames" : {
+
+      },
+      "longitude" : -62.536222222222,
+      "name" : "Angel Falls",
+      "retrievedAt" : "2026-08-13T00:00:00.000Z",
+      "source" : "wikidata",
+      "sourceRecordID" : "Q80299",
+      "sourceURL" : "https://www.wikidata.org/wiki/Q80299",
+      "theme" : "landscape",
+      "timeZoneIdentifier" : "America/Caracas"
+    }
+  ],
+  "schemaVersion" : 1,
+  "version" : 1
+}

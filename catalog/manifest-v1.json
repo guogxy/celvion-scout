@@ -1,0 +1,13 @@
+{
+  "catalog" : "supplemental-spots",
+  "expiresAt" : "2027-08-13T00:00:00.000Z",
+  "issuedAt" : "2026-08-13T00:00:00.000Z",
+  "payloadByteCount" : 7995,
+  "payloadURL" : "https://guogxy.github.io/celvion-scout/catalog/payload-v1.json",
+  "recordCount" : 10,
+  "schemaVersion" : 1,
+  "sha256" : "46bf2ed41bceec2b2467f1cfff7ad032b12130b3aeb8b70ec96b4909cd3c2545",
+  "signature" : "LQ4+XfAn+tYP6qZOD3GNOXCjcSa5PoEf4h6krp9y8LWRdbexY8zFEODqAUTDEtLbe8L2wMLJUYh53DUPYT5VDA==",
+  "signatureAlgorithm" : "ed25519",
+  "version" : 1
+}
